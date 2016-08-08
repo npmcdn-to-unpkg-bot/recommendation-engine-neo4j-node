@@ -41,6 +41,7 @@
     "webpack-dev-server": "1.14.1"
   },
   "dependencies": {
+    "neo4j": "^2.0.0-RC2",
     "react": "15.2.1",
     "react-dom": "15.2.1"
   }
