@@ -1,3 +1,26 @@
+html{
+  font-family: 'Raleway', sans-serif;
+}
+body {
+  background-color: #FFFFFF;
+  padding: 20px;
+  margin: 0;
+}
+
 h1 {
-  color: tomato;
+  color: #616161;
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 5px;
+}
+
+ul.header {
+  background-color: #9E9E9E;
+  padding: 0;
+}
+.active{
+  background-color: #FFC107;
 }
